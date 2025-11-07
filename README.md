@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elchin Abuzarli</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on [Laletech MMC](https://www.laletech.az/)
+- 🔭 I’m currently working on [Poizoi MMC](https://www.poizoi.com/)
 
 - 🌱 I’m currently learning **Next.js Typescript**
 
