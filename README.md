@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nanazon Technology](https://www.nanazon.com/)
 
-- 🌱 I’m currently learning **Next.js Typescript**
+- 🌱 I’m currently learning **Nest.js Typescript**
 
 - 💬 Ask me about **Javascript React Next.js Scss**
 
