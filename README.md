@@ -6,5 +6,3 @@
 - 💬 Ask me about **Javascript React Next.js Scss**
 
 - 📫 How to reach me **abuzerli.dev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fuk-99gw-IePsqiyHrvMRshgVQsgEClh/view?usp=sharing](https://drive.google.com/file/d/1Fuk-99gw-IePsqiyHrvMRshgVQsgEClh/view?usp=sharing)
